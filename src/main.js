@@ -1,3 +1,4 @@
+const { createApp } = Vue;
 import { createApp } from 'vue'
 import App from './App.vue'
 
